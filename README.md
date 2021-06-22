@@ -1,6 +1,6 @@
 # cuaca_app
 
-A new Flutter application.
+Aplikasi Cuaca ini masih memiliki kekurangan, yaitu tidak bisa berganti lokasi. Penggantian lokasi hanya bisa dilakukan manual via coding.
 
 ## Getting Started
 
